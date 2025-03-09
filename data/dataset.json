@@ -59,7 +59,6 @@
         "question": "What future work is planned for DeepSeek-R1?",
         "answer": "Future work includes improving readability, addressing language mixing, and exploring further enhancements to reasoning capabilities through advanced RL techniques and distillation methods."
     },
-    "questions",
     {
         "question": "What are the four components of the 3FS system?",
         "answer": "The four components of the 3FS system are the cluster manager, metadata service, storage service, and client. All components are connected in an RDMA network (InfiniBand or RoCE)."
